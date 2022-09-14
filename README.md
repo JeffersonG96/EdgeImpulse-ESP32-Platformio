@@ -1,0 +1,3 @@
+# EdgeImpulse-ESP32-Platformio
+
+SENSOR ACELEROMETRO POR I2C
